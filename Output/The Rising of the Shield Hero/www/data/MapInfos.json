@@ -1,0 +1,23 @@
+[
+null,
+{"id":1,"expanded":true,"name":"Start","order":1,"parentId":0,"scrollX":1084,"scrollY":610},
+{"id":2,"expanded":false,"name":"Hallway","order":4,"parentId":7,"scrollX":1839,"scrollY":445.5},
+{"id":3,"expanded":false,"name":"Throne","order":5,"parentId":7,"scrollX":474.6666666666667,"scrollY":271.1111111111111},
+{"id":4,"expanded":true,"name":"Summon Area","order":3,"parentId":7,"scrollX":832,"scrollY":640},
+{"id":5,"expanded":false,"name":"Castle Town","order":7,"parentId":0,"scrollX":1068,"scrollY":790},
+{"id":6,"expanded":false,"name":"Village of Riyute","order":9,"parentId":0,"scrollX":1068,"scrollY":790},
+{"id":7,"expanded":false,"name":"Melromarc","order":2,"parentId":0,"scrollX":1068,"scrollY":1046},
+{"id":8,"expanded":false,"name":"Bridge (C to NT)","order":6,"parentId":0,"scrollX":1084,"scrollY":610},
+null,
+null,
+{"id":11,"expanded":false,"name":"Forest","order":15,"parentId":0,"scrollX":1068,"scrollY":830},
+{"id":12,"expanded":false,"name":"Ruins","order":16,"parentId":0,"scrollX":1068,"scrollY":800},
+{"id":13,"expanded":true,"name":"Lost Forest","order":14,"parentId":0,"scrollX":1068,"scrollY":1440},
+null,
+{"id":15,"expanded":false,"name":"Forest (CT to VoR)","order":8,"parentId":0,"scrollX":1084,"scrollY":610},
+{"id":16,"expanded":false,"name":"Forest (VoR to M)","order":12,"parentId":0,"scrollX":1084,"scrollY":610},
+{"id":17,"expanded":false,"name":"Shop","order":10,"parentId":6,"scrollX":813,"scrollY":457.5},
+{"id":18,"expanded":true,"name":"Monster Lair","order":13,"parentId":0,"scrollX":3252,"scrollY":1440},
+null,
+{"id":20,"expanded":false,"name":"House","order":11,"parentId":6,"scrollX":813,"scrollY":457.5}
+]

@@ -1,0 +1,5 @@
+[
+null,
+{"id":1,"battlerName":"shieldhero4","characterIndex":0,"characterName":"shieldhero2","classId":1,"equips":[0,1,0,0,0],"faceIndex":0,"faceName":"shieldhero1","traits":[],"initialLevel":1,"maxLevel":99,"name":"Naofumi","nickname":"Naofumi","note":"","profile":""},
+{"id":2,"battlerName":"raphtalia4","characterIndex":0,"characterName":"raphtalia2","classId":2,"equips":[1,0,0,2,0],"faceIndex":0,"faceName":"raphtalia1","traits":[],"initialLevel":14,"maxLevel":99,"name":"Raphtalia","nickname":"Raphtalia","note":"","profile":""}
+]
